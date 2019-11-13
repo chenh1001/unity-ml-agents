@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a39d5e2c5a78a5b4295af25c21171f1d
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/nn/basketBallLearning2.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

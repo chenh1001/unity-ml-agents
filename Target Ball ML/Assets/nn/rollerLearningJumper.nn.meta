@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bb1847bcf18901849a806f8f2b5c8b24
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/nn/rollerLearningJumper.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

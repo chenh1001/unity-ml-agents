@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ronHalohem/Scenes/Ron Halohem 3/training Ron Halohem.unity
+  isLoaded: 1
+  isActive: 1
