@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f702afbdb39f68e45be65ecd0e8fe1a8
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400002: Assets/newBasketBall/NeuralNets/diff_heigths.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

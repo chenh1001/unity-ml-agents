@@ -56,8 +56,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AcademyAgent.cs" />
+    <Compile Include="Assets\BallPlayerScript.cs" />
+    <Compile Include="Assets\ballScript.cs" />
     <Compile Include="Assets\basketBallAgent.cs" />
     <Compile Include="Assets\basketBallPlayer.cs" />
+    <Compile Include="Assets\BasketBallShooter.cs" />
+    <Compile Include="Assets\BasketBallShooterPlayer.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAcademy.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAgent.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DDecision.cs" />
@@ -176,7 +180,9 @@
     <Compile Include="Assets\RollerAcademy.cs" />
     <Compile Include="Assets\rollerAgent.cs" />
     <Compile Include="Assets\ronHalohemAgent.cs" />
+    <Compile Include="Assets\shoot_nn_script.cs" />
     <Compile Include="Assets\shot.cs" />
+    <Compile Include="Assets\testBall.cs" />
     <Compile Include="Assets\trainScript.cs" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Experimental.compute" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Conv.compute" />

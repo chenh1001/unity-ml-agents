@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b4c3b6a31f0a08a409da1e9e37573429
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/newBasketBall/NeuralNets/bigNN.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

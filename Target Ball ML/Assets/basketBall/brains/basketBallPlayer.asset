@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: basketBallPlayer
   m_EditorClassIdentifier: 
   brainParameters:
-    vectorObservationSize: 9
+    vectorObservationSize: 15
     numStackedVectorObservations: 1
     vectorActionSize: 03000000
     cameraResolutions: []

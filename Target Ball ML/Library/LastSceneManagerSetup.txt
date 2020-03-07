@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ronHalohem/Scenes/Ron Halohem 3/training Ron Halohem.unity
+- path: Assets/newBasketBall/Scenes/PlayingScene.unity
   isLoaded: 1
   isActive: 1

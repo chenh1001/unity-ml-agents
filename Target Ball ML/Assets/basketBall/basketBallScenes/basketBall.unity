@@ -22967,7 +22967,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 672762778}
-  - component: {fileID: 672762779}
+  - component: {fileID: 672762780}
   m_Layer: 0
   m_Name: Academy
   m_TagString: Untagged
@@ -22989,7 +22989,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &672762779
+--- !u!114 &672762780
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22998,7 +22998,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 672762777}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a41c0c5b21824b04ca7b95ccf5f8cf27, type: 3}
+  m_Script: {fileID: 11500000, guid: ccb9bdf242a666c489c9b455c9ad9b9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   broadcastHub:
@@ -23012,7 +23012,7 @@ MonoBehaviour:
     width: 80
     height: 80
     qualityLevel: 5
-    timeScale: 1
+    timeScale: 100
     targetFrameRate: -1
   inferenceConfiguration:
     width: 80

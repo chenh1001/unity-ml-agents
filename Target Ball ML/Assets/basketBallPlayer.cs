@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class basketBallPlayer : MonoBehaviour
 {
-   public GameObject basketBall;
+    public GameObject basketBall;
     Rigidbody rgd;
     public int spawnSpeed = 50;
     int counter = 100;
