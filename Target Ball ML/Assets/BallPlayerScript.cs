@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallPlayerScript : MonoBehaviour
 {
-    public GameObject player;
+    public gameController gc;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +15,7 @@ public class BallPlayerScript : MonoBehaviour
         if (col.gameObject.CompareTag("target"))
         {
             Debug.Log("BASKET!");
-            player.GetComponent<BasketBallShooterPlayer>().madeBasket();
+            gc.basketMade();
             return;
         }
     }

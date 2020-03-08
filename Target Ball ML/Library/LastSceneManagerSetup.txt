@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/newBasketBall/Scenes/PlayingScene.unity
+- path: Assets/newBasketBall/Scenes/TeamTrainScene.unity
   isLoaded: 1
   isActive: 1
